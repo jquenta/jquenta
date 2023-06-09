@@ -1,4 +1,4 @@
-Physics! :peru:. Currently a theoretical HEP student @ ICTP Trieste.
+Physics :peru:. Doing Mathematical Physics @ Université de Bourgogne.
 
 <!---
 jquenta/jquenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
