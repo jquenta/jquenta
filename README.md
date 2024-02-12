@@ -1,4 +1,4 @@
-Physics :peru:. Doing Mathematical Physics @ Université de Bourgogne.
+Physics :peru:.
 
 <!---
 jquenta/jquenta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
